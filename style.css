@@ -1,0 +1,87 @@
+body {
+  background-color: black;
+  color: rgb(250, 253, 255);
+}
+nav{
+  background-color:rgba(156, 156, 156, 0.66) ;
+}
+h1 {
+  font-family: Helvetica, sans-serif;
+}
+.profile {
+  margin-left: 0px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.c2 {
+  margin-right: 30px;
+  margin-top: 70px;
+}
+@media (max-width: 576px) {
+  .profile {
+    display: block;
+    margin-left: 20px;
+  }
+
+  .c2 {
+    color: white;
+    margin-right: 0px;
+  }
+
+}
+
+.c1{
+  width: 18rem;
+}
+
+.who{
+  margin-top: 50px;
+}
+.am{
+  margin-top: 10px;
+  width: 50vw;
+}
+.skill{
+  margin: 70px 2vw 40px 2vw;
+  text-align: center;
+  /*display: flex;
+  justify-content: space-evenly;
+*/
+}
+.skillcard{
+  margin: 30px;
+ /* border: 5px solid rgb(197, 250, 7);*/
+ background-color:rgba(182, 224, 244, 0.66);
+ text-align: center;
+  border-radius: 9px;
+  padding: 10px;
+  width: 37vw;
+}
+.skillflex{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.one{
+  background-color:rgba(237, 182, 244, 0.66);
+}
+
+.logo{
+  align-items: center;
+}
+
+i{
+  margin: 5px;
+  font-size: 30px;
+  color:#ff00ef;
+}
+
+.fa-brands{
+  width: 10px;
+  height: auto;
+}
+a{
+  text-decoration: none;
+  margin-left: 60px;
+}

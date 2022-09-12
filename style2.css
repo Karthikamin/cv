@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  color: rgb(250, 253, 255);
+  font-size: 10pt;
+}
+
+.profile {
+  display: block;
+  margin-left: 20px;
+}
+
+.c2 {
+  color: white;
+  margin-right: 0px;
+}
+.c1{
+  width: 10rem;
+}
+.skillflex{
+  display: block;
+ 
+}
+nav{
+  background-color: rgba(237, 182, 244, 0.66);
+  padding: 0px;
+}
+.skill{
+  margin: 10px;
+}
+.skillcard{
+ 
+ background-color:rgba(182, 224, 244, 0.66);
+ text-align: center;
+  border-radius: 9px;
+  padding: 10px;
+  margin-bottom: 10px;
+ 
+}
+
+
+.one{
+  background-color:rgba(237, 182, 244, 0.66);
+}
